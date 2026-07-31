@@ -1,4 +1,4 @@
-# Opa! bem vindo ao meu perfil ! Sou o Kenay Nobre 👍
+# Opa! Bem vindo ao meu perfil ! Sou o Kenay Nobre 👍
 
 * Sou estudante de Engenharia de Software na Universidade Católica de Brasília 
 * Atuo como Desenvolvedor iOS no programa da Apple Developer Academy 
