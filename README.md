@@ -1,12 +1,10 @@
 # Opa! bem vindo ao meu perfil ! Sou o Kenay Nobre 👍
----
 
 * Sou estudante de Engenharia de Software na Universidade Católica de Brasília 
 * Atuo como Desenvolvedor iOS no programa da Apple Developer Academy 
 * Sempre que possível, busco participar de projetos de extensão para estar perto de quem realmente precisa, além de me envolver em projetos de iniciação tecnológica e científica
 
 ## Minhas principais habilidades :
----
 
 <div style="display: inline-block;">
   <img align="center" alt="Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
@@ -21,7 +19,6 @@
 <br>
 
 ## Também tenho conhecimento em :
----
 
 <div style="display: inline-block;">
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -31,13 +28,11 @@
 <br>
 
 ## Idiomas:
----
 
 * Português nativo
 * Inglês nível B2
   
 ## Meus Aplicativos na App Store :
----
 
 <a href="https://apps.apple.com/br/app/firework/id6786974201?mt=12">
   <img src="https://img.shields.io/badge/FireWork-APP_STORE-5A5A5A?style=for-the-badge&logo=apple&logoColor=white&labelColor=5A5A5A&color=4CAF50" alt="App 1" />
@@ -54,7 +49,6 @@
 <br><br>
 
 ## Minhas redes :
----
 
 <a href="https://www.linkedin.com/in/kenay-gomes-nobre-509498339/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" alt="LinkedIn" />
